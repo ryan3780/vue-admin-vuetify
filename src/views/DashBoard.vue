@@ -1,5 +1,7 @@
 <template>
-  <div>Dash</div>
+  <v-container fluid>
+    <v-card> DashBoard </v-card>
+  </v-container>
 </template>
 <script lang="ts">
 export default {};
