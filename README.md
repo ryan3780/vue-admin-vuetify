@@ -1,5 +1,8 @@
 # admin-vuetify
 
+## 목적 : 뷰티파이 사용법 공부
+## 스택 : Vue2 + TypeScript
+
 ## Project setup
 ```
 npm install
