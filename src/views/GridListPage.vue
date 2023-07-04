@@ -7,7 +7,7 @@
     </v-row>
   </v-container>
 </template>
-<script lang="ts">
+<script>
 export default {};
 </script>
 <style></style>
