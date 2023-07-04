@@ -1,4 +1,4 @@
-declare module "vuetify/lib" {
+declare module "vuetify" {
   import Vuetify from "vuetify";
-  export default Vuetify as any;
+  export default Vuetify;
 }
